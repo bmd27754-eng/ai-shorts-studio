@@ -1,3 +1,5 @@
+> **Important fork update:** The old R2 deployment steps in this upstream guide are superseded. Configure `GOOGLE_DRIVE_CLIENT_ID`, `GOOGLE_DRIVE_CLIENT_SECRET`, and `GOOGLE_TOKEN_ENCRYPTION_KEY` on the Render worker, plus `GOOGLE_DRIVE_REDIRECT_URI` on Vercel. Follow [GOOGLE_DRIVE_SETUP.md](./GOOGLE_DRIVE_SETUP.md). Do not add the old R2 environment variables.
+
 # 🚀 Deploy AI Shorts Studio — Free, Step by Step
 
 Follow this top to bottom. ~20–30 minutes, **₹0**, nothing runs on your PC.

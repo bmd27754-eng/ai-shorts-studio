@@ -1,3 +1,5 @@
+> **Fork update:** Uploads now use Google Drive, not the original R2/link flow. Follow [GOOGLE_DRIVE_SETUP.md](./GOOGLE_DRIVE_SETUP.md) for OAuth and environment setup.
+
 # 🚀 Quick Start — Run AI Shorts Studio on Your Computer
 
 The easiest way to run this app on your own machine. **No paid services, no cloud
