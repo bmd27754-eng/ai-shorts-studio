@@ -1,3 +1,5 @@
+> **Fork update:** Google Drive OAuth is now required for video upload and worker output storage. The original MinIO/R2 local storage notes below describe the upstream version; use [GOOGLE_DRIVE_SETUP.md](./GOOGLE_DRIVE_SETUP.md) for the current integration.
+
 # Run AI Shorts Studio locally (all-in-one, no cloud accounts)
 
 This runs the whole app on your machine using Docker for the backing services,

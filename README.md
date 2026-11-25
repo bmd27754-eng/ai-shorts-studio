@@ -1,3 +1,5 @@
+> **Updated storage setup:** This fork now uses Google Drive OAuth + resumable uploads for source videos and generated clips. Do not follow the old Cloudflare R2 setup sections below; use [GOOGLE_DRIVE_SETUP.md](./GOOGLE_DRIVE_SETUP.md) and the current `.env.example`. The old sections are retained as upstream project history only.
+
 # 🎬 AI Shorts Studio
 
 Turn long videos into viral Shorts/Reels — **automatically and 100% on free
